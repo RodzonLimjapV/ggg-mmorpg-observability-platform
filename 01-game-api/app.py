@@ -1,0 +1,1 @@
+# Flask MMORPG API placeholder
